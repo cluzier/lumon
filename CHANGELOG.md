@@ -1,8 +1,12 @@
 # Change Log
 
-All notable changes to the "lumon" extension will be documented in this file.
+## [0.0.4] - 2025-04-10
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Fixed
+- Updated `engines.vscode` field in `package.json` to `^1.96.0` to ensure compatibility with **Cursor v0.48.8**
+- Resolved installation issue caused by higher VSCode version requirement (`^1.99.0`)
+
+---
 
 ## [0.0.1] - 2025-04-04
 

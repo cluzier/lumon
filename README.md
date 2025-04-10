@@ -1,4 +1,6 @@
-# Lumon
+<div align="center">
+    <img src="images/lumon_logo_wordmark.png" alt="Lumon Logo" />
+</div><br><br>
 
 > A minimal, sleek, and unnervingly calm VSCode theme inspired by the world of **Severance**. For when you want your code to feel like it's being written under fluorescent lights deep in the belly of Lumon Industries.
 

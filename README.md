@@ -43,7 +43,7 @@ Or search for **Lumon** in the Extensions view.
 
 ## 📦 Contributing
 
-Pull requests are welcome! If you have tweaks to the theme or want to adapt it to other languages/frameworks, feel free to contribute.
+Pull requests are welcome! If you have tweaks to the theme or want to adapt it to other languages/frameworks, feel free to contribute. Don't forget to check out the [contributing guide](https://github.com/cluzier/lumon/blob/main/CONTRIBUTING.md)!
 
 ---
 

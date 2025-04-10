@@ -3,7 +3,7 @@
   "displayName": "Lumon",
   "publisher": "cluzier",
   "description": "A VSCode theme inspired by the Severance aesthetic (Lumon Industries)",
-  "icon": "icon.png",
+  "icon": "./images/icon.png",
   "version": "0.0.41",
   "engines": {
     "vscode": "^1.96.0"

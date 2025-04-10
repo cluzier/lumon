@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.4] - 2025-04-10
+## [0.0.41] - 2025-04-10
 
 ### Fixed
 - Updated `engines.vscode` field in `package.json` to `^1.96.0` to ensure compatibility with **Cursor v0.48.8**
